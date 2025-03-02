@@ -6,7 +6,7 @@
 
 :root {
     --text-color: white;
-    --bg-url: url(./assets//wallpaperflare.com_wallpaper.jpg);
+    --bg-url: url(./assets/solo-leveling-sung-jin-woo-hd-wallpaper-preview.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(8, 8, 8, 0.02);
@@ -26,6 +26,7 @@
 
 body{
 background: var(--bg-url) no-repeat top center/cover;
+background-size: 150%;
 }
 /*Como pode ser feito
      background-image: url(./assets/bg-mobile.jpg);
